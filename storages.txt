@@ -1,0 +1,3 @@
+https://linbit.com/linstor/
+https://docs.gluster.org/en/latest/Quick-Start-Guide/Architecture/
+
